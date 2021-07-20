@@ -47,7 +47,7 @@ Th project purpose is  by using the knowledge from machine learning and neural n
 
   ### Data Preprocessing
   
-  ##### . What variable(s) are considered the target(s) for your model?
+  ##### **.**** What variable(s) are considered the target(s) for your model?
    
    The variable that targeting in this module is the IS_SUCCESSFUL column.
    
