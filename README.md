@@ -39,7 +39,7 @@ Th project purpose is  by using the knowledge from machine learning and neural n
     
   ## Resources
   
-  . Data Source: charity_data.csv
+  . Data Source: charity_data.csv, AlphabetSoupCharity_starter_code.ipynb
   
   . Software: Python , Jupyter Notebook 
   
