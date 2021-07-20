@@ -43,3 +43,20 @@ Th project purpose is  by using the knowledge from machine learning and neural n
   
   . Software: Python , Jupyter Notebook 
   
+## Results
+
+  ### Data Preprocessing
+  
+  ##### . What variable(s) are considered the target(s) for your model?
+   
+   The variable that targeting in this module is the IS_SUCCESSFUL column.
+   
+  ##### . What variable(s) are considered to be the features for your model?
+  
+  In futures, all variable are consider expect the drop variables(the column application cat)
+  
+  ##### . What variable(s) are neither targets nor features, and should be removed from the input data?
+  
+  The variables, 'EIN' & 'NAME',have little to do with our outcome so that should be removed from the input data.
+  
+  
