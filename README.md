@@ -29,13 +29,13 @@ Th project purpose is  by using the knowledge from machine learning and neural n
 
 #### The outline of the project
 
-    . Deliverable 1: Preprocessing Data for a Neural Network Model
+    . Preprocessing Data for a Neural Network Model
     
-    . Deliverable 2: Compile, Train, and Evaluate the Model
+    . Compile, Train, and Evaluate the Model
     
-    . Deliverable 3: Optimize the Model
+    . Optimize the Model
     
-    . Deliverable 4: A Written Report on the Neural Network Model (README.md)
+    . A Written Report on the Neural Network Model (README.md)
     
   ## Resources
   
