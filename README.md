@@ -90,5 +90,5 @@ Th project purpose is  by using the knowledge from machine learning and neural n
   
   ## Summary
   
- The models accuracy is 72.9% the result is not enouph for the prediction the fueature eventhough we tried changed the hidden layers and dropping two features that we figured to be irrelevant. Although I did not get to the accuracy of 75% that I wanted it is possible the reason for this is we may have had to drop more features which may have affected how good the neural network actually is. The best way to increase the accuracy of your model is to have more data. If we have solid data added to this model, the accuracy of this model will be much more concrete.
+ The models accuracy is 72.9% the result is not enouph for the prediction the fueature eventhough I tried changed the hidden layers and dropping two features that figured to be irrelevant.So that to get the better  accuracy performance in the model, I recomdend to have more data or to drop more addtional variables If the variable are not siginifcants effects on the output.
   
