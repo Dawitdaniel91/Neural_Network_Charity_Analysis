@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-Th project purpose is  by using the knowledge from machine learning and neural networks I create a binary classifier that will tell the customer whether or not the applicants will be successful using alphabet soup. The dataset contains over 34,000 organizations that have been funded by alphabet soup. There are a number of columns that capture the metadata of each organization such as:
+The project’s purpose is by using the knowledge from machine learning and neural networks I create a binary classifier that will tell the customer whether or not the applicants will be successful using alphabet soup. The dataset contains over 34,000 organizations that have been funded by alphabet soup. There are a number of columns that capture the metadata of each organization such as:
 
               EIN and NAME—Identification columns
               
@@ -68,13 +68,13 @@ Th project purpose is  by using the knowledge from machine learning and neural n
   ### Compiling, Training, and Evaluating the Model
   
   ###### How many neurons, layers, and activation functions did you select for your neural network model, and why?
-  The model has inpput and two hidden layers. The first and second hidden layer has 80 and 30 neurons respectivly.Both layers have an activation funcion "relu" & the output layer is "sigmoid".
+  The model has input and two hidden layers. The first and second hidden layer has 80 and 30 neurons respectively. Both layers have an activation function "relu" & the output layer is "sigmoid".
   
   ![image](https://user-images.githubusercontent.com/80365882/126390703-41c7db72-5c9f-426d-ac78-90d9f3b82f84.png)
 
   ###### Were you able to achieve the target model performance?
   
-  Not acivie the target model performance becouse the model accuracy is under 75%. This is not a satisfying performance to help predict the outcome of the charity donations.
+  Not active the target model performance because the model accuracy is under 75%. This is not a satisfying performance to help predict the outcome of the charity donations.
   
   ![image](https://user-images.githubusercontent.com/80365882/126390876-e539b8e7-165a-4e2a-aae7-9f033e1d5f36.png)
   
@@ -90,5 +90,5 @@ Th project purpose is  by using the knowledge from machine learning and neural n
   
   ## Summary
   
- The models accuracy is 72.9% the result is not enouph for the prediction the fueature eventhough I tried changed the hidden layers and dropping two features that figured to be irrelevant.So that to get the better  accuracy performance in the model, I recomdend to have more data or to drop more addtional variables If the variable are not siginifcants effects on the output.
+ The model’s accuracy is 72.9% the result is not enough for the prediction of the feature even though I tried changing the hidden layers and dropping two features that were figured to be irrelevant. So that to get the better accuracy performance in the model, I recommend having more data or dropping more additional variables If the variable does not have significant effects on the output.
   
